@@ -1,3 +1,3 @@
 # VIM - Honeydew colorscheme
 
-![honeydew-colorscheme-example](honeydew_pic.png)
+![alt-text](honeydew_pic.png?raw=true)
